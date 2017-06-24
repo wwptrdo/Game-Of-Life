@@ -12,11 +12,11 @@
 
 # 三、编译源码
 ### 首先进入工程目录，执行下面的编译命令：
-### gcc -o obj/life_of_game.o -Iinclude -c src/life_of_game.c
-### gcc -o bin/life_of_game.o -Iinclude obj/life_of_game.o src/main.c
+### gcc -o obj/life\_of\_game.o -Iinclude -c src/life\_of\_game.c
+### gcc -o bin/life\_of\_game.o -Iinclude obj/life\_of\_game.o src/main.c
 
 # 四、运行游戏
 ### 在工程目录下执行：
-### bin/life_of_game
+### bin/life\_of\_game
 
 # 五、效果展示（理想图）
