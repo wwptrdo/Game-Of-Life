@@ -20,6 +20,6 @@
 ### bin/life\_of\_game
 
 # 五、效果展示（理想图）
-![game_of_life_1](https://github.com/WhisperHear/Game-Of-Life/blob/master/photos/game_of_life_1.jpg )
+![game_of_life_1](https://github.com/WhisperHear/Game-Of-Life/blob/master/photos/game_of_life_1.gif )
 
-![game_of_life_2](https://github.com/WhisperHear/Game_Of_Life/blob/master/photos/game_of_life_2.jpg )
+![game_of_life_2](https://github.com/WhisperHear/Game_Of_Life/blob/master/photos/game_of_life_2.gif )
