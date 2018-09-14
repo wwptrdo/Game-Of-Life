@@ -1,3 +1,9 @@
+/*
+ * author: wwptrdudu <1348351139@qq.com>
+ * github: https://github.com/wwptrdudu
+ * tg: @wwptrdudu
+ */
+
 #ifndef __GAME_OF_LIFE__
 #define __GAME_OF_LIFE__
 

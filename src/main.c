@@ -1,3 +1,10 @@
+/*
+ * author: wwptrdudu <1348351139@qq.com>
+ * github: https://github.com/wwptrdudu
+ * tg: @wwptrdudu
+ */
+ 
+ 
 #include "game_of_life.h"
 #include <stdio.h>
 #include <stdlib.h>
